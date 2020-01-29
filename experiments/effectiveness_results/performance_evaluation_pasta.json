@@ -1,0 +1,37 @@
+{
+    "pasta_farfalle": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "pasta_fusilli": {
+        "n_good_match": 4,
+        "n_correct": 4,
+        "n_found": 4,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "pasta_mezze_maniche": {
+        "n_good_match": 4,
+        "n_correct": 4,
+        "n_found": 4,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "pasta_penne_rigate": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "overall_performance": {
+        "n_good_match": 10,
+        "n_correct": 10,
+        "n_found": 10,
+        "recall": 1.0,
+        "precision": 1.0
+    }
+}

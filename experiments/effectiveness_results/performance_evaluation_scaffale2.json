@@ -1,0 +1,86 @@
+{
+    "coco_pops": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "barretta": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "special_k": {
+        "n_good_match": 1,
+        "n_correct": 2,
+        "n_found": 1,
+        "recall": 0.5,
+        "precision": 1.0
+    },
+    "frutti_rossi": {
+        "n_good_match": 3,
+        "n_correct": 3,
+        "n_found": 3,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "cioccolato_fondente": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "protein": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "fitness": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "all_bran": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "vitasnella": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "nesquik": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "cerealix": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "overall_performance": {
+        "n_good_match": 18,
+        "n_correct": 19,
+        "n_found": 18,
+        "recall": 0.947,
+        "precision": 1.0
+    }
+}

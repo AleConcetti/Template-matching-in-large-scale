@@ -1,0 +1,55 @@
+{
+    "image_path": "./images/test",
+    "test_images": [
+        {
+            "name":"MILAN_ADS",
+            "path": "pressAds.png",
+            "resize": 1000
+        },
+        {
+            "name": "LIPTON_BACK_SHUFFLE",
+            "path": "lipton_back_shuffle.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "LIPTON_FRONT",
+            "path": "lipton_front_ordered.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "SCAFFALE_PICCOLO_1",
+            "path": "cereali_little.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "SCAFFALE_PICCOLO_2",
+            "path": "cereali_little2.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "CAFFE_MOKA",
+            "path": "moka-carrefour.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "PASTA",
+            "path": "pasta-carrefour.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "SAPONE",
+            "path": "sapon-carrefour.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "THE",
+            "path": "the-carrefour.jpg",
+            "resize": 1000
+        },
+        {
+            "name": "THE_DALL_ALTO",
+            "path": "the-carrefour-alto.jpg",
+            "resize": 1000
+        }
+    ]
+}

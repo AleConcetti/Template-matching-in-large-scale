@@ -1,0 +1,408 @@
+{
+    "image_path": "./images/template",
+    "templates": [
+        {
+            "name":"COCO_POPS",
+            "path": "cereali_coco_pops.jpg",
+            "size": [13.2, 14.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"BARRETTA",
+            "path": "cereali_kellogs_barretta.jpg",
+            "size": [13.3, 15.9],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"CORN_FLAKES",
+            "path": "cereali_kellogs_cf.jpg",
+            "size": [25.0, 19.0],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"CROSTIES",
+            "path": "cereali_kellogs_crosties.jpg",
+            "size": [30.0, 19.0],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"EXTRA_KELLOGS",
+            "path": "cereali_kellogs_extra.jpg",
+            "size": [25.9, 19.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"SPECIAL_K",
+            "path": "cereali_kellogs_special_k.jpg",
+            "size": [30.4, 19.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"KRAVE",
+            "path": "cereali_kellogs_krave.jpg",
+            "size": [24.2, 19.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"FRUTTI_ROSSI",
+            "path": "cereali_kellogs_frutti_rossi.jpg",
+            "size": [15.0, 14.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"CIOCCOLATO_FONDENTE",
+            "path": "cereali_kellogs_cioccolato_fondente.jpg",
+            "size": [15.0, 14.4],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"PROTEIN",
+            "path": "cereali_kellogs_protein.jpg",
+            "size": [24.3, 19.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"FITNESS",
+            "path": "cereali_fitness.jpg",
+            "size": [15.3, 12.7],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"ALL_BRAN",
+            "path": "cereali_all_bran.jpg",
+            "size": [13.0, 18.5],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"VITASNELLA",
+            "path": "cereali_vitasnella.jpg",
+            "size": [12.0, 22.3],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"NESQUIK",
+            "path": "cereali_nesquik.jpg",
+            "size": [15.3, 12.7],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"ORO_CIOK",
+            "path": "cereali_oro_ciok.jpg",
+            "size": [11.6, 18.1],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"CEREALIX",
+            "path": "cereali_cerealix.jpg",
+            "size": [13.8, 17.1],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"VITALIS",
+            "path": "cereali_vitalis.jpg",
+            "size": [21.8, 13.6],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"VITALIS_CHOCOLATE",
+            "path": "vitalis-chocolate.png",
+            "size": [21.8, 13.6],
+            "performance_file": "cereali.txt"
+        },
+        {
+            "name":"EMIRATES",
+            "path": "ads_emirates.png",
+            "size": [5.0, 4.04],
+            "performance_file": "cola.txt"
+        },
+        {
+            "name":"TIM",
+            "path": "ads_tim.png",
+            "size": [5.0, 4.04],
+            "performance_file": "cola.txt"
+        },
+        {
+            "name":"ADIDAS",
+            "path": "ads_adidas.png",
+            "size": [5.0, 4.04],
+            "performance_file": "cola.txt"
+        },
+        {
+            "name":"LIPTON_FRONT",
+            "path": "lipton_front.jpg",
+            "size": [7.8, 6.5],
+            "performance_file": "farmaci.txt"
+        },
+        {
+            "name":"LIPTON_BACK",
+            "path": "lipton_back.jpg",
+            "size": [7.8, 6.5],
+            "performance_file": "farmaci.txt"
+        },
+        {
+            "name":"CAFFE_DECA_CARREFOUR",
+            "path": "caffe-carrefour-deca.jpg",
+            "size": [15.3, 8],
+            "performance_file":"caffe-carreffour-deca.txt"
+        },
+        {
+            "name": "CAFFE_CREMOSO_CARREFOUR",
+            "path": "caffe-carrefour-cremoso.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-carrefour.txt"
+        },
+        {
+            "name":"CAFFE_ESPRESSO_CARREFOUR",
+            "path": "caffe-carrefour-espresso.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-carrefour.txt"
+        },
+        {
+            "name":"CAFFE_FORTE_CARREFOUR",
+            "path": "caffe-carrefour-forte.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-carrefour.txt"
+        },
+        {
+            "name":"CAFFE_CREMOSO",
+            "path": "caffe-cremoso.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-cremoso.txt"
+        },
+        {
+            "name":"CAFFE_DECA",
+            "path": "caffe-decaffeinato.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-decaffeinato.txt"
+        },
+        {
+            "name":"CAFFE_INTENSO",
+            "path": "caffe-intenso.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-intenso.txt"
+        },
+        {
+            "name":"CAFFE_MELODICO",
+            "path": "caffe-melodico.jpg",
+            "size": [15.3, 8],
+            "performance_file": "caffe-melodico.txt"
+        },
+        {
+            "name":"CAFFE_FORTE",
+            "path": "caffe-forte.jpg",
+            "size": [15.3, 8],
+            "performance_file": "cafffe-forte.txt"
+        },
+        {
+            "name":"MOKA_ARABICA",
+            "path": "moka-arabica.jpg",
+            "size": [14,  8],
+            "performance_file": "moka-arabica.txt"
+        },
+        {
+            "name":"MOKA_CARREFOUR_ESPRESSO",
+            "path": "moka-carrefour-espresso.jpg",
+            "size": [14.3,  8],
+            "performance_file": "moka-carrefour.txt"
+        },
+        {
+            "name":"MOKA_CLASSICO",
+            "path": "moka-classico.jpg",
+            "size": [13.3, 8],
+            "performance_file": "moka-classico.txt"
+        },
+        {
+            "name":"MOKA_CREMA_E_GUSTO",
+            "path": "moka-crema-e-gusto.jpg",
+            "size": [1, 1],
+            "performance_file": "moka-crema.txt"
+        },
+        {
+            "name":"MOKA_DECA",
+            "path": "moka-deca.jpg",
+            "size": [13.5, 8],
+            "performance_file": "moka-deca.txt"
+        },
+        {
+            "name":"MOKA_ESPRESSO_CARREFOUR",
+            "path": "moka-espresso-carrefour.jpg",
+            "size": [14.3, 8],
+            "performance_file": "moka-espresso.txt"
+        },
+        {
+            "name":"MOKA_ESPRESSO",
+            "path": "moka-espresso.jpg",
+            "size": [19, 11],
+            "performance_file": "moka-espresso.txt"
+        },
+        {
+            "name":"MOKA_GUSTO",
+            "path": "moka-gusto.jpg",
+            "size": [14.7, 8],
+            "performance_file": "moka-gusto.txt"
+        },
+        {
+            "name":"MOKA_KIMBO",
+            "path": "moka-kimbo.jpg",
+            "size": [1, 1],
+            "performance_file": "moka-kimbo.txt"
+        },
+        {
+            "name":"RISTRETTO",
+            "path": "capsule-ristretto.jpg",
+            "size": [15.3, 8],
+            "performance_file": "moka-ristretto.txt"
+        },
+        {
+            "name":"CAPSULE_SPLENDID",
+            "path": "capsule-splendid.jpg",
+            "size": [1, 1],
+            "performance_file": "moka-splendid.txt"
+        },
+        {
+            "name":"PASTA_FARFALLE",
+            "path": "pasta-farfalle.jpg",
+            "size": [17, 13],
+            "performance_file": "pasta-farfalle.txt"
+        },
+        {
+            "name":"PASTA_FUSILLI",
+            "path": "pasta-fusilli.jpg",
+            "size": [17, 13],
+            "performance_file": "pasta-fusilli.txt"
+        },
+        {
+            "name":"PASTA_MEZZE_MANICHE",
+            "path": "pasta-mezze-manice.jpg",
+            "size": [17, 13],
+            "performance_file": "pasta-mezze.txt"
+        },
+        {
+            "name":"PASTA_PENNE_RIGATE",
+            "path": "pasta-penne-rigate.jpg",
+            "size": [15.4, 12],
+            "performance_file": "pasta-penne.txt"
+        },
+        {
+            "name":"SAPONE_PALM_BLU",
+            "path": "sap-palmolive-blu.jpg",
+            "size": [24.5, 9.5],
+            "performance_file": "sap-palmolive.txt"
+        },
+        {
+            "name":"SAPONE_PALM_MANDORLA",
+            "path": "sap-palmolive-mandorla.jpg",
+            "size": [25.5, 9.5],
+            "performance_file": "sap-palmolive.txt"
+        },
+        {
+            "name":"SAPONE_PALM_OLIVA",
+            "path": "sap-palmolive-oliva.jpg",
+            "size": [25.5, 9.5],
+            "performance_file": "sap-palmolive.txt"
+        },
+        {
+            "name":"SAPONE_PALM_ORCHIDEA",
+            "path": "sap-palmolive-orchidea.jpg",
+            "size": [25.5, 9.5],
+            "performance_file": "sap-palmolive.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_AVVOLGENTE",
+            "path": "sap_neutro_avvolgente.jpg",
+            "size": [24, 10],
+            "performance_file": "sap_neutro_avvolgente.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_IDRATANTE",
+            "path": "sap_neutro_idratante.jpg",
+            "size": [24, 10],
+            "performance_file": "sap_neutro_idratante.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_ZERO",
+            "path": "sap_neutro_zero.jpg",
+            "size": [24, 10],
+            "performance_file": "sap_neutro_zero.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_BEUTY",
+            "path": "sap_neutro_beuty.jpg",
+            "size": [24, 10],
+            "performance_file": "sap_neutro_beuty.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_NATURALE",
+            "path": "sap_neutro_naturale.jpg",
+            "size": [24, 10],
+            "performance_file": "sap_neutro_naturale.txt"
+        },
+        {
+            "name":"SAP_NEUTROMED",
+            "path": "sap_neutromed.jpg",
+            "size": [27, 9],
+            "performance_file": "sap_neutro_naturale.txt"
+        },
+        {
+            "name":"SAP_BOROTALCO",
+            "path": "sap_borotalco.jpg",
+            "size": [24.5, 10],
+            "performance_file": "sap_borotalco.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_PIACERE",
+            "path": "sap_dove_piacere.jpg",
+            "size": [22, 10],
+            "performance_file": "sap_dove_piacere.txt"
+        },
+        {
+            "name":"SAP_NEUTRO_SETA",
+            "path": "sap_dove_seta.jpg",
+            "size": [22, 10],
+            "performance_file": "sap_dove_seta.txt"
+        },
+        {
+            "name":"THE_DETEINATO",
+            "path": "the-deteinato.jpg",
+            "size": [7, 14],
+            "performance_file": "the-deteinato.txt"
+        },
+        {
+            "name":"THE_FINOCCHIO",
+            "path": "the-finocchio.jpg",
+            "size": [7.5, 15],
+            "performance_file": "the-fnocchio.txt"
+        },
+        {
+            "name":"THE_MALVA",
+            "path": "the-malva.jpg",
+            "size": [7.5, 15],
+            "performance_file": "the-malva.txt"
+        },
+        {
+            "name":"THE_NERO_BERGAMOTTO",
+            "path": "the-nero-bergamotto.jpg",
+            "size": [7, 14],
+            "performance_file": "the-nero.txt"
+        },
+        {
+            "name":"THE_NERO",
+            "path": "the-nero.jpg",
+            "size": [7, 14],
+            "performance_file": "the-nero.txt"
+        },
+        {
+            "name":"THE_VERDE",
+            "path": "the-verde.jpg",
+            "size": [7, 14],
+            "performance_file": "the-verde.txt"
+        },
+        {
+            "name":"THE_ZENZERO",
+            "path": "the-zenzero.jpg",
+            "size": [7.5, 15],
+            "performance_file": "the-zenzero.txt"
+        }
+
+    ]
+}

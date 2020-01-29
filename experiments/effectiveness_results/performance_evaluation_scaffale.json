@@ -1,0 +1,72 @@
+{
+    "coco_pops": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "barretta": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "corn_flakes": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "frutti_rossi": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "protein": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "fitness": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "vitalis": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "vitasnella": {
+        "n_good_match": 1,
+        "n_correct": 1,
+        "n_found": 1,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "oro_ciok": {
+        "n_good_match": 2,
+        "n_correct": 2,
+        "n_found": 2,
+        "recall": 1.0,
+        "precision": 1.0
+    },
+    "overall_performance": {
+        "n_good_match": 15,
+        "n_correct": 15,
+        "n_found": 15,
+        "recall": 1.0,
+        "precision": 1.0
+    }
+}
