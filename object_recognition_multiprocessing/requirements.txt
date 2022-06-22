@@ -1,5 +1,5 @@
 shapely
 matplotlib
-numpy==1.17.4
+numpy==1.22.0
 opencv-contrib-python==3.4.2.17
 PyQt5
